@@ -1,0 +1,129 @@
+/* home */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+body{
+    margin: 0;
+}
+
+li, a, button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10%;
+    background-color: #E5E5E5;
+}
+
+.logo {
+    cursor: pointer;
+    width: 30px;
+    height: 40px;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+    color: #5e5a5a;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: #d6d6d6;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: #aaaaaa;
+}
+
+.day6{
+    width: 100%;
+}
+
+.main{
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    padding: 0 50px 0 160px;
+    font-size: 25px;
+    margin-top: -80px;
+}
+
+h2{
+    padding: 0 50px 40px 120px;
+    font-size: 60px;
+    margin-top: -40px;
+}
+
+.paragraf{
+    padding: 0 530px 0 120px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: -70px;
+}
+
+.icon-bar {
+    /*position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);*/
+    float: right;
+    padding: 0 100px 0 200px;
+    margin-top: -200px;
+  }
+  
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    color: #c4c4c4;
+    font-size: 20px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #fff;
+  }
+  
+  .facebook {
+    background: #fff;
+    color: #c4c4c4;
+  }
+  
+  .twitter {
+    background: #fff;
+    color: #c4c4c4;
+  }
+  
+  .instagram {
+    background: #fff;
+    color: #c4c4c4;
+  }
+  
+  .youtube {
+    background: #fff;
+    color: #c4c4c4;
+  }
