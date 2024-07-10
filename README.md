@@ -119,3 +119,7 @@ b. Customer
 15. Confirm Payment
 
     ![23  reservasi](https://github.com/indahcf/Website-Based-Day6-Concert-Ticket-Booking-Information-System/assets/104883886/e8285a66-bd04-4578-8659-0f10a2dd3973)
+
+16. Print Ticket
+
+    ![Screenshot (1001)](https://github.com/indahcf/Website-Based-Employee-Recruitment-Information-System-at-PT-Noto-Teknologi-Indonesia/assets/104883886/983d8449-ec23-4d02-97cd-041aa08aab82)
