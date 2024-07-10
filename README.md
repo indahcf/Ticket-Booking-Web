@@ -37,7 +37,7 @@ a. Admin
 - Email: admin@gmail.com
 - Password: admin
   
-b. Customer:
+b. Customer
 - Email: anita@gmail.com
 - Password: anita
 
