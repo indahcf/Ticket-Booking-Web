@@ -33,11 +33,11 @@ Here are the tools we used to build the application:
 
 ## User Credential
 
-- Admin
+a. Admin
 - Email: admin@gmail.com
 - Password: admin
-
-- Customer:
+  
+b. Customer:
 - Email: anita@gmail.com
 - Password: anita
 
