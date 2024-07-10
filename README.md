@@ -6,5 +6,4 @@ Website Based Day6 Concert Ticket Booking Information System is an information s
 
 ## For whom?
 
-
 Website Based Day6 Concert Ticket Booking Information System is suitable for event organizers selling concert tickets online and concertgoers looking to purchase tickets online.
