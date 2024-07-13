@@ -1,14 +1,14 @@
-# Website Based Day6 Concert Ticket Booking Information System
+# Ticket Booking Web
 
-## What is a Website Based Day6 Concert Ticket Booking Information System?
+## What is a Ticket Booking Web?
 
-Website Based Day6 Concert Ticket Booking Information System is an information system designed to facilitate the online purchase of concert tickets for greater efficiency and effectiveness.
+Ticket Booking Web is an information system designed to facilitate the online purchase of concert tickets for greater efficiency and effectiveness.
 
 ## For whom?
 
-Website Based Day6 Concert Ticket Booking Information System is suitable for event organizers selling concert tickets online and fans looking to purchase tickets online.
+Ticket Booking Web is suitable for event organizers selling concert tickets online and fans looking to purchase tickets online.
 
-## Who are the users of the Website Based Day6 Concert Ticket Booking Information System?
+## Who are the users of the Ticket Booking Web?
 
 - Admin: Admin is a user who has the highest position in the system. Admins can manage customer, manage schedule, manage ticket, and manage reservation.
 
